@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=${"Welcome to Eunji's GitHub"}&fontSize=50&animation=twinkling)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text="Welcome to Eunji's GitHub"&fontSize=50&animation=twinkling)
 
 <!--
 **EJ-KANG02/EJ-KANG02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
