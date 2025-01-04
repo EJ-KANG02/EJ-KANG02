@@ -3,7 +3,7 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FEJ-KANG02&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 ## 🦖Portfolio
-[eunji's portfolio](https://grass-vanadium-173.notion.site/9bdaab54f5d84fbc9e9875692bc41e72?pvs=4)
+[eunji's portfolio][(https://grass-vanadium-173.notion.site/9bdaab54f5d84fbc9e9875692bc41e72?pvs=4](https://grass-vanadium-173.notion.site/160a566038fa80e8aea2ef08d8db3081?pvs=4))
 
 ## 🚀Tech Stack
 <div align=center> 
