@@ -37,14 +37,13 @@
   <br>
 </div>
 
-## 🏆Algorithm
-[![Solved.ac
-프로필](http://mazassumnida.wtf/api/generate_badge?boj=enji4)](https://solved.ac/enji4)
-
 ## 📚GitHub Stats
+<div align=center> 
 <div style="display: flex; justify-content: space-between;">
   <img src="https://github-readme-stats.vercel.app/api?username=EJ-KANG02&show_icons=true&theme=radical" alt="Anurag's GitHub stats" />
+  <br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EJ-KANG02&layout=compact" alt="Top Langs" />
+</div>
 </div>
 
 <!--
