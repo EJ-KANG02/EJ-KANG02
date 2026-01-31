@@ -3,7 +3,7 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FEJ-KANG02&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 ## 🦖Portfolio
-[eunji's portfolio](https://grass-vanadium-173.notion.site/160a566038fa80e8aea2ef08d8db3081)
+
 ## 🚀Tech Stack
 <div align=center> 
   <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white"> 
@@ -38,13 +38,6 @@
 </div>
 
 ## 📚GitHub Stats
-<div align=center> 
-<div style="display: flex; justify-content: space-between;">
-  <img src="https://github-readme-stats.vercel.app/api?username=EJ-KANG02&show_icons=true&theme=radical" alt="Anurag's GitHub stats" />
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EJ-KANG02&layout=compact" alt="Top Langs" />
-</div>
-</div>
 
 <!--
 **EJ-KANG02/EJ-KANG02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
